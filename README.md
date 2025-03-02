@@ -225,3 +225,9 @@ Planned future improvements include:
 
 This implementation draws inspiration from research papers including "Attention Is All You Need" (Vaswani et al.), "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (Devlin et al.), and modern best practices from the NLP research community.
 
+
+##output
+
+![Image](https://github.com/user-attachments/assets/16ba5f77-45fd-4bd3-9c4e-80f99b7c41ad)
+![Image](https://github.com/user-attachments/assets/2a2cd669-6c86-43bf-85c1-97185a1ef76a)
+![Image](https://github.com/user-attachments/assets/d476d3ba-6e71-4b16-ba89-4298c77c6617)
